@@ -4,7 +4,7 @@ Pretty much a doughnut.
 ## Ingredients
 - 1 cup flour
 - 2 tsp baking powder
-- 1 t(b)sp sugar (not sure)
+- 1 tbsp sugar
 - 1 egg
 - A pinch of salt
 - A bit of milk

@@ -1,6 +1,6 @@
 # Marshmallow Pudding
 A spongy slightly fruit-flavored bread soaked with a sweet vanilla butter sauce
-and topped with cream or custard.
+and topped with cream or [custard](custard.md).
 
 ## Ingredients
 ### Cake
@@ -31,4 +31,4 @@ and topped with cream or custard.
 ### Sauce
 Heat the rest of the ingredients and pour over the pudding just after it has been removed from the oven.
 
-Serve with cream or custard.
+Serve with cream or [custard](custard.md).

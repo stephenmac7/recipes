@@ -1,5 +1,5 @@
 # Chipa
-A paraguayan cheese bread made with tapioca flour.
+A Paraguayan cheese bread made with tapioca flour.
 
 ## Ingredients
 - 40 oz tapioca flour

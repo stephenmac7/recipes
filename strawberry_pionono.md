@@ -15,7 +15,7 @@ You may want to double the recipe if you're using a large baking sheet.
 - Strawberries
 
 ## Steps
-1. Preheat oven to 350 degrees Farenheight
+1. Preheat oven to 350 degrees Fahrenheit
 2. Beat egg whites to form soft peaks, sprinkling in sugar
 3. Add egg yolks one at a time
 4. Slowly sift and fold in flour and baking powder

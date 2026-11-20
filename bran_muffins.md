@@ -1,5 +1,5 @@
 # Bran Muffins
-![bran](img/bran_muffins.jpg)
+![bran](images/bran_muffins.jpg)
 
 ## Wet Ingredients
 - 3 eggs
